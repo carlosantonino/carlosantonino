@@ -18,6 +18,8 @@
     <img alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosantonino&langs_count=8)
+
 ### Bancos de dados mais utilizados
 
 <div style="display: inline-block">
