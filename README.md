@@ -5,7 +5,7 @@
 
 ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosantonino&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosantonino&langs_count=4)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosantonino&langs_count=5)
 
 ### Tecnologias que eu uso no meu dia
 
@@ -20,6 +20,7 @@
     <img alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </div>
 
+
 ### Bancos de dados mais utilizados
 
 <div style="display: inline-block">
@@ -29,6 +30,7 @@
 </div>
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+
 
 ## Contatos:
 
