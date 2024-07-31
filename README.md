@@ -4,6 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlosacs.20/)
 
 ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosantonino&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosantonino&langs_count=4)
 
 ### Tecnologias que eu uso no meu dia
@@ -31,4 +32,9 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 
 ## Contatos:
 
-- [E-mail](carlosantonino.cs@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](carlosantonino.cs@gmail.com)
+
+[![Email](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](+5585994027359)
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](85994027359)
+
