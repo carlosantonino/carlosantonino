@@ -4,6 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlosacs.20/)
 
 ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosantonino&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosantonino&langs_count=4)
 
 ### Tecnologias que eu uso no meu dia
 
@@ -17,8 +18,6 @@
     <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
     <img alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosantonino&langs_count=8)
 
 ### Bancos de dados mais utilizados
 
